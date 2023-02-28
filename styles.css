@@ -1,0 +1,75 @@
+
+#particles-js{
+    position:fixed;
+}
+
+body{
+    margin: 0px;
+    padding: 0px;
+    background-color: #030506;
+    height: 150vh;
+}
+
+.margen{
+    padding: 20%;
+
+}
+
+.imagen{
+    width:30%;
+
+}
+
+
+
+.CV{
+    width: 1000px;
+    height: 1000px;
+    margin: 0 auto;
+    background-color: white;
+}
+
+.izquierda{
+    background-color: #140a28;
+    width: 35%;
+    float: left;
+    height: 1000px;
+    padding: 5%;
+    border-style: 5px double;
+    border-color: white;
+     
+}
+
+
+
+legend{
+    color: white;
+    font-size: 180%;
+    font-family: 'Oswald', sans-serif;
+    text-decoration:underline;
+}
+
+ul{
+    color: white;
+    font-size: 90%;
+}
+
+p{
+    color: white;
+    font-size: 90%;
+}
+
+li{
+    color: white;
+    font-size: 95%;
+}
+
+.derecha{
+    background-color: #1a0b1c;
+    width: 45%;
+    float: left;
+    height: 1000px;
+    padding: 5%;
+    
+
+}
